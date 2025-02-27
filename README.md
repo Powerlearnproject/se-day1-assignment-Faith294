@@ -11,9 +11,9 @@ reliability- it ensures software performs as expected without bias especially fo
 
 efficiency - it helps to optimize developer workflow while maintaining high quality standards.
 
- scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
+scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
 
- security - implement protection practice like authentication, authorization and encryption to secure users information.
+security - implement protection practice like authentication, authorization and encryption to secure users information.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 Mastering complexity
@@ -31,8 +31,8 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
 waterfall methodology - Linear and sequential, each phase is completed before moving on.
 - there is Low flexibility,
 changes are hard to incorporate once a phase is complete.
- - Customer feedback comes late, after the product is developed.
- - Testing is done at the end of the development process.
+- Customer feedback comes late, after the product is developed.
+- Testing is done at the end of the development process.
 
 agile methodology - Iterative and incremental, with multiple cycles (sprints).
 - High flexibility, adapts to changing requirements.
@@ -43,20 +43,20 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 
 Software Developer - developing applications,programs and systems using programming languages and frameworks.
  - maintaining and updating software to keep it functional.
-- collaborating with other team members to ensure best practice when developing software.
+ - collaborating with other team members to ensure best practice when developing software.
  - reporting to the project manager about the progress of the software development.
 
 Quality Assurance Engineer - collaborate with stakeholders to understand and clarify software requirement.
  - create development standards and procedures for the programmers to follow
  - confirm that the software meets the requirement before deployment.
-- analyse the product to identify bugs and suggest changes to make them more efficient.
-- develop and execute automation scripts using open source tools.
+ - analyse the product to identify bugs and suggest changes to make them more efficient.
+ - develop and execute automation scripts using open source tools.
 
 Project Manager - assembles and lead the software development team.
  - discuss the project and it's requirement with the client and software developers.
  - create blueprint for the project.
-- tracking and communicating information regarding the project milestone.
-- deliver the complete software to the client and regularly check its performance.
+ - tracking and communicating information regarding the project milestone.
+ - deliver the complete software to the client and regularly check its performance.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 An integrated development environment (IDE) is a software platform that facilitates the creation of other software applications by providing a space to write, compile, and debug code, sometimes with value-adding tools that reduce development efforts. eg Visual Studio Code (VSCode)
@@ -115,11 +115,13 @@ It help to verify that the system meets all functional and non-functional requir
 Acceptance tests - are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on replicating user behaviors.
 Whether the software meets the needs of the end-user and is ready for deployment.
 
+
+
 Part 2: Introduction to AI and Prompt Engineering
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
 
+prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
 Importance:
 Improved user experience - Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias in the large language models’ training data.
 Increased flexibility - A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
